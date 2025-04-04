@@ -43,5 +43,5 @@ The project consists of the following files:
 This project is for educational purposes and is open-source. Feel free to modify and improve it!
 
 ## Author
-Ashirt
+Ashrit
 
